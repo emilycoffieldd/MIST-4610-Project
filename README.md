@@ -50,7 +50,22 @@ Each Loan Detail might require one or multiple Loan Collaterals depending on the
 
 # Data Dictionary
 
-[Data Dictionary.pdf](https://github.com/emilycoffieldd/MIST-4610-Project/files/13245470/Data.Dictionary.pdf)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/d5f6b4da-84fe-432e-a287-2a8ac2c2ff2a)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/0feb1f7d-1681-4898-8ea0-b92df75aa576)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/5d770f05-b3c0-4598-a9e9-8b35c76cbc07)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/15637f46-6ff7-4a9c-8370-a27dab9d33ac)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/cd5c6ae4-3fc7-418a-ac4a-fb8ce8145073)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/891b14be-5bb3-493b-9727-d1a18f69698d)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/a04ee563-5203-4d16-9a42-24535ee0ed3c)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/59acf6e3-c39a-4010-9359-fc82960d9b5f)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/c053f993-b4e9-4d65-8e4c-eaf5d8f09adf)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/bd689028-e239-424d-ae43-31331f7ee02e)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/02910368-407f-406f-a632-b69c7316dde5)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/36ddf943-f344-40fc-8b42-d3ca7105616d)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/82856745-13ee-4bd9-b99f-c87d341d1336)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/3f55133d-21ad-419a-ac81-3bbac7d58c02)
+
+
 
 
 # Ten Queries
