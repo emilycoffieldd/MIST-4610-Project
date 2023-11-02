@@ -6,7 +6,7 @@
 # Team Members
 1. Emily Coffield @emilycoffieldd 
 2. Luis Garcia @LuisCVG
-3. Efe Guvenc
+3. Efe Guvenc @eguvenc03
 4. Eris Jang
 5. Jessica Nguyen
 
@@ -173,3 +173,8 @@ Response:
 ![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/df1e06ce-791f-421d-84fd-74809c70d8af)
 
 
+# Database Information
+
+Name of Database: ns_F2329704Group6
+
+All stored procedures can be called using the format TP_Qx (where x is to be replaced by the query number above it pertains to).
