@@ -8,7 +8,7 @@
 2. Luis Garcia @LuisCVG
 3. Efe Guvenc @eguvenc03
 4. Eris Jang @erissjang
-5. Jessica Nguyen @kpn72621
+5. Jessica Nguyen @jessngph09
 
 # Problem Description
 Grassroots Financial Empowerment Co. is at the forefront of fostering sustainable growth in economically challenged areas. By bridging the gap between the underprivileged and basic financial services, we grant microloans that help kick-start businesses, enhance living standards, and nurture dreams.
