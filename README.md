@@ -127,7 +127,8 @@ Response:
 
 ![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/516a5eeb-502f-4b1b-b9ea-6bd4be7ae4f3)
 
-Query 5 lists the names/positions/contacts of staff members that manage any loan within a specific intended use (to be declared by manager dependent on situation), making it useful for managers to track the directory of staff members that are associated with certain intended loans (who may want to assign these staff members to specific tasks).
+Query 5 list the names/contacts of staff members - either CEO or CFO -  managing any loan within a Medical intention,
+making it useful for managers to track the directory of staff members that are associated with the medical field (who may want to assign these staff members to specific trainings).
 
 Query: 
 
