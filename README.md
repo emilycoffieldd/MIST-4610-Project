@@ -7,8 +7,8 @@
 1. Emily Coffield @emilycoffieldd 
 2. Luis Garcia @LuisCVG
 3. Efe Guvenc @eguvenc03
-4. Eris Jang
-5. Jessica Nguyen
+4. Eris Jang @erissjang
+5. Jessica Nguyen @kpn72621
 
 # Problem Description
 Grassroots Financial Empowerment Co. is at the forefront of fostering sustainable growth in economically challenged areas. By bridging the gap between the underprivileged and basic financial services, we grant microloans that help kick-start businesses, enhance living standards, and nurture dreams.
@@ -16,6 +16,21 @@ At the center of our business model is the Loan Details entity, which is fostere
 These support entities are haloed by five additional entities on the periphery of the model listed in no particular order as Training Sessions, Loan Collateral, Loan Guarantor, Workforce, and Branch Information. 
 We aim to populate this model with sample data and connect entities on a variety of attributes in order to position a data set that can be tabled by ten SQL queries. 
 These queries are meant to simulate the value of the data set to a business minded user.
+
+Conversations with ChatGPT: 
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/203fe8a5-676e-439e-8399-916e4c436b5f)
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/e0df9549-d44f-42f6-a5de-ec43a72e9a35)
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/96f5db29-de65-4936-acc8-a2d4f6e7b147)
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/998ccb90-1062-40da-a440-6343799b8282)
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/ee8f2147-3abe-4481-96e2-bf2d1e533583)
+
+
+
 
 
 # Data Model
