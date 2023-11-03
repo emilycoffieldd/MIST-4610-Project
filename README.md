@@ -139,11 +139,13 @@ making it useful for managers to track the directory of staff members that are a
 
 Query: 
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/6fa9ba91-1b89-4a72-acae-1d1c93938d7e)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/39276095-713b-42ee-b005-0243761b5dac)
+
 
 Response:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/6321a25d-fb8c-4cbf-ab17-1776eece9537)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/c536ecef-73d6-4455-8372-8b6c946b4ccf)
+
 
 Query 6 returns the name of all LoanSeekers along with their phone number and residential details, so it is a quick way for managers to access the directory for LoanSeekers (useful in the process of follow-up, mailing news, etc.)
 
