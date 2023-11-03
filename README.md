@@ -141,17 +141,19 @@ Query 6 returns the name of all LoanSeekers along with their phone number and re
 
 Query:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/1a16028b-d3e7-4f93-b4b4-c1fb79a64fa0)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/beb5616a-5bb7-4eb2-a1de-3bf1f50d65c6)
+
 
 Response: 
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/71d28911-f694-4e15-90dc-0ead897aafb8)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/4292f5a5-8611-42c7-a04b-21e3c0036dbe)
+
 
 Query 7 lists the names, intended uses of Loan Seekers who are giving up a collateral value above the total average which helps managers figure out the reasoning behind a higher value of collateral in correlation to the intended use of the loan.
 
 Query:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/9a939d6d-a225-47c9-897c-638fe116d84a)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/21b4ae71-8c32-40da-a145-403e4f42829c)
 
 Response:
 
@@ -161,7 +163,8 @@ Query 8 lists the intended use of all loans with a requested amount higher than 
 
 Query/Procedure:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/665ef5fd-3128-4d4e-a0da-2ca6bbb98a8d)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/c5c8a5d6-96de-48c5-8298-f9b22564c1ef)
+
 
 Response:
 
@@ -169,9 +172,10 @@ Response:
 
 Query 9 lists the recommended training type and the designated completion status for Loans that concern Medical Purposes. It is essential for managers to track the training programs associated with purposes amongst the Medical Field. It can be seen from the output that all purposes associated with the given field either require or recommend a form of training.
 
-Query/Procedure:
+Query:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/33b3def7-a55b-4c75-b74b-e0aab4139d44)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/8cef6846-160b-4dc6-b227-ada67644194d)
+
 
 Response:
 
