@@ -84,27 +84,32 @@ Each Loan Detail might require one or multiple Loan Collaterals depending on the
 
 
 # Ten Queries
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/dd1b29a1-80c9-4052-b57c-d0f37cff5b80)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/0d2aa501-3d76-4b7c-b187-21438407ff34)
 
-Query 1 lists the name of the loan seekers and a description of their business ventures. The query is useful for managers to see the trend of upcoming business ventures and study their user information.
 
-Query:
-
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/c538b62b-a099-4144-8d8b-4e1c3be68a83)
-
-Response:
-
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/dcb66bb0-db53-457c-8905-da0d7152a5c7)
-
-Query 2 lists the audit log ID and changes made grouped by each employee that has written it. The query allows the managers to track which employee is responsible for which audit logs in case there is an instance when additional information is needed from the employee who wrote it. 
+Query 1 lists the name of the loan seekers and a description of their business ventures. The query is useful for managers to see the trend of upcoming business ventures and study their user information. This procedure can be called using a given loan number.
 
 Query:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/61f9d9b6-8c53-4e7b-87ba-57c98c571907)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/ce3b09b8-6a6b-4913-81cb-9a32baac950a)
+
 
 Response:
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/4274486d-67e2-46b7-8cfb-f04348600aa8)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/b4922ab5-86b9-4846-8659-f483492a82f7)
+
+
+Query 2 lists the audit log ID and changes made grouped by each employee that has written it. The query allows the managers to track which employee is responsible for which audit logs in case there is an instance when additional information is needed from the employee who wrote it. Be sure to disclose the Loan seeker's name.
+
+Query:
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/a2f0d1cd-82e9-4c5a-be2f-eab9a7cbf677)
+
+
+Response:
+
+![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/1ff82eeb-c498-4a9c-9257-e77727c3b935)
+
 
 
 Query 3 lists all types of loans including their descriptions, typical loan range, and standard interest rates. Managers can view the basic, necessary information about the loans for both loan seekers and guarantors. 
